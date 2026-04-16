@@ -17,7 +17,7 @@ Raw datasets are standardized and merged into a processed inflation dataset used
 
 ## Repository Structure
 ```text
-egypt-inflation-forecast/
+.
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -31,15 +31,9 @@ egypt-inflation-forecast/
 │   │   └── interest_rate.csv
 │   └── processed/
 │       └── combined_inflation_dataset.csv
-├── results/
-│   ├── arima_xgb_results.csv
-│   └── model_comparison_metrics.csv
-└── archive_local_only/
-    ├── sds.ipynb
-    ├── Untitled-1sda.ipynb
-    ├── lol.ipynb
-    ├── test.ipynb
-    └── old_source_files_not_for_github/
+└── results/
+    ├── arima_xgb_results.csv
+    └── model_comparison_metrics.csv
 ```
 
 ## Main Notebook Location
