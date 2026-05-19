@@ -1,7 +1,7 @@
 # Egypt Inflation Forecasting using ARIMA, XGBoost, and Hybrid Modeling
 
 ## Project Overview
-This repository contains a graduation project focused on forecasting Egypt’s inflation using three modeling approaches:
+This repository contains a project focused on forecasting Egypt’s inflation using three modeling approaches:
 - ARIMA (time-series baseline)
 - XGBoost (machine-learning model)
 - Hybrid ARIMA + XGBoost (residual learning)
